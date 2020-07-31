@@ -1,2 +1,2 @@
 # jupyter_environment
-Environments for educational Jupyter notebooks
+Environments for my educational Jupyter notebooks
